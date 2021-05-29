@@ -1,0 +1,5 @@
+KResp8266wifi	    KEYWORD1
+setWifi	            KEYWORD1
+httpGet	            KEYWORD1
+getData	            KEYWORD1
+httpCode	        KEYWORD1
